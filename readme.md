@@ -1,3 +1,13 @@
+# Cross Beta Testing
+
+This repository is for tracking the issues, code and files used during the
+Cross beta testing program.  Please log any issues or commit any files to
+this repository.
+
+Questions, comments or suggestions?
+Email me at <a href="mailto:crosscripter@gmail.com">crosscripter@gmail.com</a>
+
+
 # Known Issues
 
 ## Shell
